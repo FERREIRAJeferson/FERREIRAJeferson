@@ -8,13 +8,14 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/FERREIRAJeferson" target= "_blank">
+  <a href="https://github.com/FERREIRAJeferson" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-FERREIRAJeferson-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/jefersonferreira8/" target= "_blank">
+  <a href="https://www.instagram.com/jefersonferreira8/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-@jefersonferreira8-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ## 🛠️ Stack em evolução
 
