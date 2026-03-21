@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá 👋, Meu nome é Jeferson Ferreira
 
-<!--
-**FERREIRAJeferson/FERREIRAJeferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de Análise e Desenvolvimento de Sistemas -
+🇧🇷 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/FERREIRAJeferson">
+    <img src="https://img.shields.io/badge/GitHub-FERREIRAJeferson-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/jefersonferreira8/">
+    <img src="https://img.shields.io/badge/Instagram-@jefersonferreira8-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+## 🛠️ Stack em evolução
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## 🚀 Filosofia
+
+> _"Cada linha de código é um passo na construção de ideias que transformam desafios em oportunidades."_
+
+---
+
+🤝 Sempre aberto a colaborações, parcerias e ideias legais.
